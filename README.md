@@ -1,6 +1,7 @@
 <h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Ubuntu+Mono&weight=450&duration=3000&pause=1000&vCenter=true&random=true&width=300&height=50&lines=Hi,+I'm+Aaskar+Rana:);Crafting+UIs+and;Diving+Into+Backend!!;" alt="Typing SVG" /><br>
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Ubuntu+Mono&weight=450&duration=3000&pause=1000&vCenter=true&random=true&width=300&height=50&lines=Hi,+I'm+Aaskar+Rana:);" alt="Typing SVG" />
 </h1>
+
 
 <!-- Wrapping GIF for centering and scaling -->
 <div align="center" style="text-align:center;">
@@ -9,8 +10,11 @@
     </a>
 </div>
 
+<h1 align="center">Crafting UIs, Solving Algorithms, and Diving Into Backend</h3>
+
+
 <!-- Centering and spacing for trophies -->
-<div align="center" style="display: flex; justify-content: center; gap: 10px; flex-wrap: wrap;">
+<div align="center" style="display: flex; justify-content: center; gap: 10; flex-wrap: wrap;">
   <a href="https://github.com/ryo-ma/github-profile-trophy">
     <img src="https://github-profile-trophy.vercel.app/?username=rana8aaskar" alt="GitHub Profile Trophy" />
   </a> 

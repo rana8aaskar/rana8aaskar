@@ -1,5 +1,5 @@
 <h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Ubuntu+Mono&weight=450&duration=3000&pause=1000&vCenter=true&random=true&width=300&height=50&lines=Hi,+I'm+Aaskar+Rana:);Crafting+UIs+and+Diving+Into+Backend!!;" alt="Typing SVG" /><br>
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Ubuntu+Mono&weight=450&duration=3000&pause=1000&vCenter=true&random=true&width=300&height=50&lines=Hi,+I'm+Aaskar+Rana:);Crafting+UIs+and;Diving+Into+Backend!!;" alt="Typing SVG" /><br>
 </h1>
 
 <!-- Wrapping GIF for centering and scaling -->

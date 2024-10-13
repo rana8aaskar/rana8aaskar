@@ -12,6 +12,8 @@
 
 <h1 align="center">Crafting UIs, Solving Algorithms, and Diving Into Backend</h3>
 
+[![An image of @rana8aaskar's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/rana8aaskar)](https://holopin.io/@rana8aaskar)
+
 
 <!-- Centering and spacing for trophies -->
 <div align="center" style="display: flex; justify-content: center; gap: 10; flex-wrap: wrap;">
@@ -35,6 +37,7 @@
         <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" height="30" width="40" />
     </a>
 </p>
+
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> 
